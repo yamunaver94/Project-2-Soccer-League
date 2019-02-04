@@ -4,6 +4,7 @@ Project 2 - Build a Soccer League
 --------------------------------
 """
 
+# Coding style complies with PEP 8.
 
 import csv
 import os
