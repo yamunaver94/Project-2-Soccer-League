@@ -83,7 +83,6 @@ def invitation(group):
             files.write('{}'.format(invite))
 
 
-<<<<<<< HEAD
 def start_building_teams():
     """
 
