@@ -1,9 +1,7 @@
 # Project 2 - A Soccer League
 
 ## Summary
-
-> Number Guessing Game is a console based program that reads the data from a CSV file and divides 18    children who have signed up for the league into three even teams according to the information in      the CSV and finally outputs a teams.txt file containing the 3 teams along with 18 more text files
-  containing a personalised invitation for each player.
+A Soccer League is a console based program that reads the data from a CSV file and divides 18 children who have signed up for the league into three even teams according to the information provided in the CSV and finally outputs a teams.txt file containing the 3 teams along with 18 more text files containing a personalised invitation for each player.
 
 ### I am aiming for exceeds :D
 
