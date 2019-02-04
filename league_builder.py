@@ -83,6 +83,7 @@ def invitation(group):
             files.write('{}'.format(invite))
 
 
+<<<<<<< HEAD
 def start_building_teams():
     """
 
@@ -92,7 +93,6 @@ def start_building_teams():
     and invitation()
 
     """
-
     experience = []
     no_experience = []
     # Add Team name into the 3 teams
