@@ -26,7 +26,7 @@ A Soccer League is a console based program that reads the data from a CSV file a
 
 ## How to use?
 * Clone or download the repository.
-* Open command prompt go to the location of the project and run command to play the game.
+* Open command prompt go to the location of the project and run command to execute the script.
   ```
   python3 league_builder.py
   ```
